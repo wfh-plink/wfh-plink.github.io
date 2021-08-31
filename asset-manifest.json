@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/aw-practise/static/css/main.850c63b9.chunk.css",
+    "main.js": "/aw-practise/static/js/main-5c0b70e7.chunk.js",
+    "main.js.map": "/aw-practise/static/js/main-5c0b70e7.chunk.js.map",
+    "runtime.js": "/aw-practise/static/js/runtime-9ec25475.js",
+    "runtime.js.map": "/aw-practise/static/js/runtime-9ec25475.js.map",
+    "vendor.css": "/aw-practise/static/css/vendor.561a8195.chunk.css",
+    "vendor.js": "/aw-practise/static/js/vendor-e3e5107c.chunk.js",
+    "vendor.js.map": "/aw-practise/static/js/vendor-e3e5107c.chunk.js.map",
+    "static/css/3.58879033.chunk.css": "/aw-practise/static/css/3.58879033.chunk.css",
+    "static/js/3-e2a3d5b7.chunk.js": "/aw-practise/static/js/3-e2a3d5b7.chunk.js",
+    "static/js/3-e2a3d5b7.chunk.js.map": "/aw-practise/static/js/3-e2a3d5b7.chunk.js.map",
+    "external/static/media/outline.css": "/aw-practise/external/static/media/MaterialIcons-Outlined.ad18c8d4.woff2",
+    "index.html": "/aw-practise/index.html",
+    "static/css/3.58879033.chunk.css.map": "/aw-practise/static/css/3.58879033.chunk.css.map",
+    "static/css/main.850c63b9.chunk.css.map": "/aw-practise/static/css/main.850c63b9.chunk.css.map",
+    "static/css/vendor.561a8195.chunk.css.map": "/aw-practise/static/css/vendor.561a8195.chunk.css.map",
+    "static/js/3-e2a3d5b7.chunk.js.LICENSE.txt": "/aw-practise/static/js/3-e2a3d5b7.chunk.js.LICENSE.txt",
+    "static/js/vendor-e3e5107c.chunk.js.LICENSE.txt": "/aw-practise/static/js/vendor-e3e5107c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-9ec25475.js",
+    "static/css/vendor.561a8195.chunk.css",
+    "static/js/vendor-e3e5107c.chunk.js",
+    "static/css/main.850c63b9.chunk.css",
+    "static/js/main-5c0b70e7.chunk.js"
+  ]
+}
